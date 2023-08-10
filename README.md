@@ -13,6 +13,7 @@
   * [x] Connect to GitHub
   * [ ] Prettier
 * [x] Implement routes with React Router
+* [x] Handle state
 * [ ] Testing
   * [ ] Jest
   * [ ] Babel
